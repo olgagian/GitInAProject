@@ -13,6 +13,7 @@
 		0B8AA07A23E8798E00F000ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B8AA07923E8798E00F000ED /* Assets.xcassets */; };
 		0B8AA07D23E8798E00F000ED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B8AA07C23E8798E00F000ED /* Preview Assets.xcassets */; };
 		0B8AA08023E8798E00F000ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B8AA07E23E8798E00F000ED /* LaunchScreen.storyboard */; };
+		0B8AA08823E87C3800F000ED /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8AA08723E87C3800F000ED /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0B8AA07C23E8798E00F000ED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0B8AA07F23E8798E00F000ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B8AA08123E8798E00F000ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B8AA08723E87C3800F000ED /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0B8AA07323E8798D00F000ED /* AppDelegate.swift */,
 				0B8AA07523E8798D00F000ED /* SceneDelegate.swift */,
 				0B8AA07723E8798D00F000ED /* ContentView.swift */,
+				0B8AA08723E87C3800F000ED /* ModalView.swift */,
 				0B8AA07923E8798E00F000ED /* Assets.xcassets */,
 				0B8AA07E23E8798E00F000ED /* LaunchScreen.storyboard */,
 				0B8AA08123E8798E00F000ED /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				0B8AA07423E8798D00F000ED /* AppDelegate.swift in Sources */,
 				0B8AA07623E8798D00F000ED /* SceneDelegate.swift in Sources */,
+				0B8AA08823E87C3800F000ED /* ModalView.swift in Sources */,
 				0B8AA07823E8798D00F000ED /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
